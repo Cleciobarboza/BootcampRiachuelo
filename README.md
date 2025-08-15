@@ -91,6 +91,11 @@ Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir o material
 
 Repositório: [https://github.com/digitalinnovationone/exercicios-java-basico](https://github.com/digitalinnovationone/exercicios-java-basico)
 
+# 7 Dominando Interfaces e Lambda em Java
+ 1. Interfaces
+ 2. Interfaces Funcionais
+ 3. Entendendo algumas keywords usadas
+
 
 
 ## Dicas
