@@ -83,6 +83,11 @@ https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key
 2. Explorando Herança e Polimorfismo
 3. Reforçando Instance of e sobrecarga de método
 
+# 7 Dominando Interfaces e Lambda em Java
+ 1. Interfaces
+ 2. Interfaces Funcionais
+ 3. Entendendo algumas keywords usadas
+
 ## Materiais de Apoio
 Os materiais complementares e de apoio que oferecemos têm como objetivo fornecer informações para facilitar e enriquecer a sua jornada de aprendizado no curso "Java e a Arte da Abstração com Classes e Encapsulamento". Aqui você encontrará links úteis, como slides, repositórios e páginas oficiais, além de dicas sobre como se destacar na DIO e no mercado de trabalho 😉
 
@@ -90,11 +95,6 @@ Os materiais complementares e de apoio que oferecemos têm como objetivo fornece
 Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir o material complementar contendo os conteúdos e links apresentados no curso:
 
 Repositório: [https://github.com/digitalinnovationone/exercicios-java-basico](https://github.com/digitalinnovationone/exercicios-java-basico)
-
-# 7 Dominando Interfaces e Lambda em Java
- 1. Interfaces
- 2. Interfaces Funcionais
- 3. Entendendo algumas keywords usadas
 
 
 
