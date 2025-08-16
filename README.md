@@ -96,6 +96,10 @@ Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir o material
 
 Repositório: [https://github.com/digitalinnovationone/exercicios-java-basico](https://github.com/digitalinnovationone/exercicios-java-basico)
 
+ # 8 Praticando com Collections e Outras Classes Úteis do java
+ 1. Trabalhando com Lista e Arrays
+ 2. Trabalhando com Set
+
 
 
 ## Dicas
