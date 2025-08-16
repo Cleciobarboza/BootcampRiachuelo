@@ -100,6 +100,10 @@ Repositório: [https://github.com/digitalinnovationone/exercicios-java-basico](h
  1. Trabalhando com Lista e Arrays
  2. Trabalhando com Set
 
+ # 9 Trabalhando com Map e Wrappers 
+ 1. Trabalhando com Map
+ 2. Tipos primitivo e Wrappers
+
 
 
 ## Dicas
