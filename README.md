@@ -104,6 +104,9 @@ Repositório: [https://github.com/digitalinnovationone/exercicios-java-basico](h
  1. Trabalhando com Map
  2. Tipos primitivo e Wrappers
 
+ # 10 Classes String, StringBuider e StringBuffer
+ 1. Classe String
+ 2. Classes StringBuider e StringBuffer
 
 
 ## Dicas
