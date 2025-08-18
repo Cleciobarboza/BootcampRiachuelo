@@ -108,6 +108,11 @@ Repositório: [https://github.com/digitalinnovationone/exercicios-java-basico](h
  1. Classe String
  2. Classes StringBuider e StringBuffer
 
+ # 11 Aplicando o BigDecimal, Enums e Classe Optional
+  1. Classe BigDecimal
+  2.Enums
+  3.Classe Optional Útei
+
 
 ## Dicas
 Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo); 
