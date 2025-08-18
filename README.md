@@ -109,9 +109,9 @@ Repositório: [https://github.com/digitalinnovationone/exercicios-java-basico](h
  2. Classes StringBuider e StringBuffer
 
  # 11 Aplicando o BigDecimal, Enums e Classe Optional
-  1. Classe BigDecimal
-  2.Enums
-  3.Classe Optional Útei
+ 1. Classe BigDecimal
+ 2. Enums
+ 3. Classe Optional Útei
 
  # 12 API de Streams e Generics
  1. Introção a API de Streams
