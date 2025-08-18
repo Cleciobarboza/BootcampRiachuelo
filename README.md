@@ -113,6 +113,11 @@ Repositório: [https://github.com/digitalinnovationone/exercicios-java-basico](h
   2.Enums
   3.Classe Optional Útei
 
+ # 12 API de Streams e Generics
+ 1. Introção a API de Streams
+ 2. Explorando
+ 3. Generics
+
 
 ## Dicas
 Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo); 
