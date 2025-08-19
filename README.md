@@ -74,27 +74,27 @@ https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key
 
  # 5 Java e a Arte da Abstração com Classes e Encapsulamento
 
-  1. Criando a primeira Classe
-  2. Trabalhando com Records
+ 1. Criando a primeira Classe
+ 2. Trabalhando com Records
 
  # 6 Herança e Polimorfismo em Java
 
-1. Introdução a Herança e Polimorfismo
-2. Explorando Herança e Polimorfismo
-3. Reforçando Instance of e sobrecarga de método
+ 1. Introdução a Herança e Polimorfismo
+ 2. Explorando Herança e Polimorfismo
+ 3. Reforçando Instance of e sobrecarga de método
 
-# 7 Dominando Interfaces e Lambda em Java
+ # 7 Dominando Interfaces e Lambda em Java
  1. Interfaces
  2. Interfaces Funcionais
  3. Entendendo algumas keywords usadas
 
-## Materiais de Apoio
-Os materiais complementares e de apoio que oferecemos têm como objetivo fornecer informações para facilitar e enriquecer a sua jornada de aprendizado no curso "Java e a Arte da Abstração com Classes e Encapsulamento". Aqui você encontrará links úteis, como slides, repositórios e páginas oficiais, além de dicas sobre como se destacar na DIO e no mercado de trabalho 😉
+ ## Materiais de Apoio
+ Os materiais complementares e de apoio que oferecemos têm como objetivo fornecer informações para facilitar e enriquecer a sua jornada de aprendizado no curso "Java e a Arte da Abstração com Classes e Encapsulamento". Aqui você encontrará links úteis, como slides, repositórios e páginas oficiais, além de dicas sobre como se destacar na DIO e no mercado de trabalho 😉
 
-## Recursos Adicionais
-Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir o material complementar contendo os conteúdos e links apresentados no curso:
-
-Repositório: [https://github.com/digitalinnovationone/exercicios-java-basico](https://github.com/digitalinnovationone/exercicios-java-basico)
+ ## Recursos Adicionais
+ Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir o material complementar contendo os conteúdos e links apresentados no curso:
+ 
+ Repositório: [https://github.com/digitalinnovationone/exercicios-java-basico](https://github.com/digitalinnovationone/exercicios-java-basico)
 
  # 8 Praticando com Collections e Outras Classes Úteis do java
  1. Trabalhando com Lista e Arrays
@@ -127,6 +127,18 @@ Repositório: [https://github.com/digitalinnovationone/exercicios-java-basico](h
  
  # 15 Classe Thread e Interface Runnable
  1 . Classe Thread e Interface Runnable
+
+ ## Recursos Adicionais
+
+ Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir alguns materiais complementares específicos.
+
+ Tipos de formatação de Strings - [https://www.javatpoint.com/java-string-format](https://www.javatpoint.com/java-string-format)
+ 
+[https://www.baeldung.com/java-primitives-vs-objects]( https://www.baeldung.com/java-primitives-vs-objects)
+ 
+ [https://www.devmedia.com.br/java-bigdecimal-trabalhando-com-mais-precisao/30286#:~:text=A%20classe%20BigDecimal%20trabalha%20com,valor%20usando%20a%20base%20decimal](https://www.devmedia.com.br/java-bigdecimal-trabalhando-com-mais-precisao/30286#:~:text=A%20classe%20BigDecimal%20trabalha%20com,valor%20usando%20a%20base%20decimal).
+ 
+ [https://diegoinacio.medium.com/representacao-ieee-754-parte-01-24ccd5987eca](https://diegoinacio.medium.com/representacao-ieee-754-parte-01-24ccd5987eca)
 
 
 ## Dicas
