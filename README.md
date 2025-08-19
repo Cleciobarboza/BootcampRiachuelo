@@ -122,8 +122,11 @@ Repositório: [https://github.com/digitalinnovationone/exercicios-java-basico](h
  1. Classe Date
  2. Classe Calendar
 
-# 14 Conhecendo as Classes OffsetDateTime OffsetTime LocalDate LocalDateTime e LocalTime
-1. Classes OffsetDateTime OffsetTime LocalDate LocalDateTime e LocalTime
+ # 14 Conhecendo as Classes OffsetDateTime OffsetTime LocalDate LocalDateTime e LocalTime
+ 1. Classes OffsetDateTime OffsetTime LocalDate LocalDateTime e LocalTime
+ 
+ # 15 Classe Thread e Interface Runnable
+ 1 . Classe Thread e Interface Runnable
 
 
 ## Dicas
