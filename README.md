@@ -151,6 +151,11 @@ https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key
 1. Começando com java.io
 2. Concluindo implementação de java.io
 
+# 19 Trabalhando com java.nio
+1. Usando java.nio
+2. Concluindo implementação do java.nio
+3. Usando java.nio2
+
 ## Dicas
 Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo); 
 
