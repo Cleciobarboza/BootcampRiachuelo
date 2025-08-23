@@ -126,7 +126,7 @@ https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key
  1. Classes OffsetDateTime OffsetTime LocalDate LocalDateTime e LocalTime
  
  # 15 Classe Thread e Interface Runnable
- 1 . Classe Thread e Interface Runnable
+ 1. Classe Thread e Interface Runnable
 
  ## Recursos Adicionais
 
@@ -140,6 +140,8 @@ https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key
  
  [https://diegoinacio.medium.com/representacao-ieee-754-parte-01-24ccd5987eca](https://diegoinacio.medium.com/representacao-ieee-754-parte-01-24ccd5987eca)
 
+# 16 Entendendo Exceptions
+1. Entendendo Exceptions
 
 ## Dicas
 Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo); 
