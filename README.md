@@ -147,6 +147,10 @@ https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key
 1. Debugging e Exceções em Java
 2. Gerenciando Exceções em Java
 
+# 18 Trabalhando com java.io
+1. Começando com java.io
+2. Concluindo implementação de java.io
+
 ## Dicas
 Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo); 
 
