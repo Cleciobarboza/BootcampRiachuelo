@@ -143,6 +143,10 @@ https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key
 # 16 Entendendo Exceptions
 1. Entendendo Exceptions
 
+# 17 Debugging e o Tratamento de Exceções em Java
+1. Debugging e Exceções em Java
+2. Gerenciando Exceções em Java
+
 ## Dicas
 Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo); 
 
