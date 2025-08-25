@@ -174,6 +174,16 @@ Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir alguns mat
     - Maven Publish [https://docs.gradle.org/current/userguide/publishing_maven.html](https://docs.gradle.org/current/userguide/publishing_maven.html)
     - Atualização da versão do grade: [https://docs.gradle.org/current/userguide/upgrading_version_8.html](https://docs.gradle.org/current/userguide/upgrading_version_8.html)
 
+# 22 Introdução banco de dados
+1. Introdução módulo
+2. Introdução à Banco de Dados
+3. Tipos de banco de dados
+4. Entendendo uma tabela
+5. Banco de dados não relacional
+6. Tipos de dados
+7. Entendendo o DBMS
+8. Instalando o SQL Server
+
 ## Dicas
 Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo); 
 
