@@ -216,6 +216,10 @@ Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir alguns mat
    
 # 32 Alguns conceitos na prática
 
+1. Operações de manipulação de dados
+2. Performance e índices
+3. Agregações
+
 ## Dicas
 Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo); 
 
