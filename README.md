@@ -1,5 +1,8 @@
 # BootcampRiachuelo
-![Java](https://img.shields.io/badge/Java-21-red)  
+![Java](https://img.shields.io/badge/Java-21-red)
+![MySQL](https://img.shields.io/badge/MySQL-8-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-6-brightgreen)
+
 
  # 1. Fundamentos da linquagem de Programação java
 
