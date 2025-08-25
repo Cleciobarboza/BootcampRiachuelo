@@ -184,6 +184,12 @@ Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir alguns mat
 7. Entendendo o DBMS
 8. Instalando o SQL Server
 
+# 23 Introdução aos Bancos de Dados Relacionais
+# 24 Modelagem de Dados Relacionais
+# 25 Normalização de Dados
+# 26 Consultas Avançadas
+# 27 Mapa Mental dos Tópicos do Curso e Revisão
+
 ## Dicas
 Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo); 
 
