@@ -240,6 +240,11 @@ Pesquise na Web: pode parecer óbvio, mas é importante frisar a importância da
 3. Configurando Flyway e criando a primeira migration
    
 # 34 Operações Básicas de Manipulação de Dados
+
+1. Inserindo Dados
+2. Buscando dados com Select
+3. Atualizando e Excluindo registros
+   
 # 35 Recursos Avançados do Banco de Dados
 # 36 Operações Avançadas
 # 37 Trabalhando com Relacionamentos
