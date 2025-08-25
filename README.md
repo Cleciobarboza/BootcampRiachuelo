@@ -189,6 +189,11 @@ Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir alguns mat
 # 25 Normalização de Dados
 # 26 Consultas Avançadas
 # 27 Mapa Mental dos Tópicos do Curso e Revisão
+# 28 Introdução ao NoSQL
+# 29 Conhecendo os tipos de banco de dados NoSQL
+# 30 Introdução ao MongoDB e instalação
+# 31 Schema Design e boas práticas
+# 32 Alguns conceitos na prática
 
 ## Dicas
 Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo); 
