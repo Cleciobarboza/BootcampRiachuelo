@@ -196,6 +196,11 @@ Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir alguns mat
 # 27 Mapa Mental dos Tópicos do Curso e Revisão
 # 28 Introdução ao NoSQL
 # 29 Conhecendo os tipos de banco de dados NoSQL
+
+1. Tipos de Banco NoSQL
+2. Coluna/Família de colunas
+3. Chave-valor
+
 # 30 Introdução ao MongoDB e instalação
 # 31 Schema Design e boas práticas
 # 32 Alguns conceitos na prática
