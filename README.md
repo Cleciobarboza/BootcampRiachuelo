@@ -203,6 +203,11 @@ Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir alguns mat
 4. Documento
 
 # 30 Introdução ao MongoDB e instalação
+
+1. introdução ao MogoDB
+2. instalção
+3. Mogodb Cloud
+
 # 31 Schema Design e boas práticas
 # 32 Alguns conceitos na prática
 
