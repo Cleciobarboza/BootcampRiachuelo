@@ -209,6 +209,11 @@ Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir alguns mat
 3. Mogodb Cloud
 
 # 31 Schema Design e boas práticas
+
+1. Schema Design
+2. Boas práticas
+3. Json vs Bson
+   
 # 32 Alguns conceitos na prática
 
 ## Dicas
