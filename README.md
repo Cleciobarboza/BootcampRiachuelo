@@ -234,6 +234,11 @@ Rooms: caso você esteja inscrito(a) em uma experiência educacional na DIO (com
 Pesquise na Web: pode parecer óbvio, mas é importante frisar a importância das engines de busca no dia-a-dia de um profissional de TI. Caso não encontre o que procura dentro da DIO, pesquise sobre o assunto (conceito, dúvida, erro etc) na Internet (dê um Google), pois na maioria das vezes você será levado à páginas incríveis como o [StackOverflow](https://stackoverflow.com/questions) que salvarão o seu dia 😎
 
 # 33 Introdução ao MySQL e Configuração do Flyway
+
+1. Instalando o MySQL
+2. Primeiros contatos com MySQL
+3. Configurando Flyway e criando a primeira migration
+   
 # 34 Operações Básicas de Manipulação de Dados
 # 35 Recursos Avançados do Banco de Dados
 # 36 Operações Avançadas
