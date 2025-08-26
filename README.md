@@ -293,6 +293,24 @@ O Git é um conceito essencial no mercado de trabalho atualmente, por isso sempr
 1. Introdução a Annotation Processor
 2. Explorando Annotation Processor
 
+## Materiais de Apoio
+Os materiais de apoio que oferecemos têm como objetivo fornecer informações para facilitar e enriquecer a sua jornada de aprendizado no curso "Annotations em Java: Marcando o Seu Código de Maneira Inteligente". Aqui você encontrará links úteis, como slides, repositórios e páginas oficiais, além de dicas sobre como se destacar na DIO e no mercado de trabalho 😉
+
+### Recursos Adicionais
+
+Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir alguns materiais complementares específicos.
+
+Repositório Annotation Processor: [https://github.com/digitalinnovationone/annotation-processor](https://github.com/digitalinnovationone/annotation-processor)
+
+GitHub javapoet: https:[//github.com/square/javapoet/](https://github.com/square/javapoet/)
+Comando para debug da task do gradle: 
+---
+bash
+./gradlew --no-daemon -Dorg.gradle.debug=true clean build
+---
+
+
+
 ## Dicas
 Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo); 
 
