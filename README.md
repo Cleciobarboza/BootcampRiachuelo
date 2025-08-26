@@ -304,11 +304,11 @@ Repositório Annotation Processor: [https://github.com/digitalinnovationone/anno
 
 GitHub javapoet: https:[//github.com/square/javapoet/](https://github.com/square/javapoet/)
 Comando para debug da task do gradle: 
+
 ---
 bash
 ./gradlew --no-daemon -Dorg.gradle.debug=true clean build
 ---
-
 
 
 ## Dicas
