@@ -317,6 +317,13 @@ Comando para debug da task do gradle:
 
 1. Refatorando Código
 
+## Materiais de Apoio
+Os materiais de apoio que oferecemos visam fornecer informações para facilitar e enriquecer a sua jornada de aprendizado no curso "SOLID e Clean Code em Java: Escrevendo Código de Alta Qualidade". Aqui você encontrará links úteis, como slides, repositórios e páginas oficiais, além de dicas sobre como se destacar na DIO e no mercado de trabalho 😉
+
+## Slides e GitHub
+Acesso aos slides utilizados pelo expert neste conteúdo:
+
+[Repositório do GitHub](https://github.com/digitalinnovationone/warehouse)
 
 ## Dicas
 Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo); 
