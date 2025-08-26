@@ -252,6 +252,9 @@ Pesquise na Web: pode parecer óbvio, mas é importante frisar a importância da
 3. Parametrizando comandos SQL e chamando Procedures
    
 # 36 Operações Avançadas
+
+1. Operações em Lote e controle manual de Commit de operações
+   
 # 37 Trabalhando com Relacionamentos
 
 ## Dicas
