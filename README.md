@@ -246,6 +246,11 @@ Pesquise na Web: pode parecer óbvio, mas é importante frisar a importância da
 3. Atualizando e Excluindo registros
    
 # 35 Recursos Avançados do Banco de Dados
+
+1. Criando uma auditoria de tabelas com triggers
+2. Buscando dados usando Views
+3. Parametrizando comandos SQL e chamando Procedures
+   
 # 36 Operações Avançadas
 # 37 Trabalhando com Relacionamentos
 
