@@ -305,13 +305,9 @@ Repositório Annotation Processor: [https://github.com/digitalinnovationone/anno
 GitHub javapoet: https:[//github.com/square/javapoet/](https://github.com/square/javapoet/)
 
 Comando para debug da task do gradle: 
-
----
-bash
-
+```bash
 ./gradlew --no-daemon -Dorg.gradle.debug=true clean build
----
-
+```
 
 ## Dicas
 Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo); 
