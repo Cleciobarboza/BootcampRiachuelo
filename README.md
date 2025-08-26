@@ -303,10 +303,12 @@ Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir alguns mat
 Repositório Annotation Processor: [https://github.com/digitalinnovationone/annotation-processor](https://github.com/digitalinnovationone/annotation-processor)
 
 GitHub javapoet: https:[//github.com/square/javapoet/](https://github.com/square/javapoet/)
+
 Comando para debug da task do gradle: 
 
 ---
 bash
+
 ./gradlew --no-daemon -Dorg.gradle.debug=true clean build
 ---
 
