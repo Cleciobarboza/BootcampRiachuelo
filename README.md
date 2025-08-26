@@ -257,6 +257,12 @@ Pesquise na Web: pode parecer óbvio, mas é importante frisar a importância da
    
 # 37 Trabalhando com Relacionamentos
 
+1. Relacionamento 1 para 1
+2. Integridade Referencial
+3. Relacionamento 1 para N
+4. Relacionamento N para N
+5. Select com N para N e entendendo N para N composto
+
 ## Dicas
 Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo); 
 
