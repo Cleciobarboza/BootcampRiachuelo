@@ -309,6 +309,15 @@ Comando para debug da task do gradle:
 ./gradlew --no-daemon -Dorg.gradle.debug=true clean build
 ```
 
+# 40 Entendendo SOLID
+
+1. Entendendo SOLID
+
+# 41 Refatorando Código
+
+1. Refatorando Código
+
+
 ## Dicas
 Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo); 
 
