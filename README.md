@@ -263,6 +263,26 @@ Pesquise na Web: pode parecer óbvio, mas é importante frisar a importância da
 4. Relacionamento N para N
 5. Select com N para N e entendendo N para N composto
 
+## Materiais de Apoio
+Os materiais de apoio que oferecemos têm como objetivo fornecer informações para facilitar e enriquecer a sua jornada de aprendizado no curso "JDBC: Explorando Persistência de Dados com Java". Aqui você encontrará links úteis, como slides, repositórios e páginas oficiais, além de dicas sobre como se destacar na DIO e no mercado de trabalho 😉
+
+### Recursos Adicionais
+
+Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir alguns materiais complementares específicos:
+
+[https://flywaydb.org](https://www.red-gate.com/products/flyway/community/)
+
+[https://www.liquibase.com](https://www.liquibase.com/)
+
+Mysql download: [https://dev.mysql.com/downloads/mysql/](https://dev.mysql.com/downloads/mysql/)
+
+Datafaker: [https://www.datafaker.net](https://www.datafaker.net/)
+
+Repositório Git
+O Git é um conceito essencial no mercado de trabalho atualmente, por isso sempre reforçamos sua importância em nossa metodologia educacional. Por isso, todo código-fonte desenvolvido durante este conteúdo foi versionado no seguinte endereço para que você possa consultá-lo a qualquer momento:
+
+[https://github.com/digitalinnovationone/jdbc-sample](https://github.com/digitalinnovationone/jdbc-sample)
+
 ## Dicas
 Artigos/Fórum: você pode compartilhar conteúdos técnicos através de Artigos (visíveis globalmente na plataforma da DIO). Por outro lado, você também pode compartilhar suas conquistas e dúvidas usando os Fóruns (que são específicos para cada experiência educacional na DIO, como um Bootcamp por exemplo); 
 
